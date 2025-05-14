@@ -1,0 +1,31 @@
+table tr td{
+	border: 1px solid black; /* borda da tabela*/
+}
+
+table{
+	width: 80%; /* largura da tabela*/
+	margin: auto;/* alinhamento centralizado da tabela*/
+}
+
+button{
+	color: #4B0082; /* cor da fonte */
+	background-color:#000000; /* cor de funot do botão */
+	font-size: 15px; /* tamanho da fonte */
+	border-radius: 11px 11px 11px 11px; /* arredonda os cantos */
+	margin-top:25px ; /* ajusta a margem superior do botão */
+	margin-bottom:25px ; /* ajusta a margem inferior do botão */
+	margin-left:25px; /* ajusta margem do lado esquerdo do botão */
+	margin-right:25px ; /* ajusta borda do lado direito do botão */
+
+	/* (margin: 7px 10px 7px 10px;) ajusta as ultimas 4 tags em 1 tag só, na ordem Cima, Direita, Baixo, Esquerda */
+
+	padding-top: ; /* ajusta margem interna de cima */
+	padding-bottom: ; /* ajusta margem interna de baixo */
+	padding-left: ; /* margem interna da esquqerda */
+	padding-right: ; /* margem interna da direita */
+	{
+		padding: 4px 11px 4px 11px;
+	}
+
+	/* (padding: 4px 11px 4px 11px;) ajusta as ultimas 4 tags em 1 tag só, na ordem Cima, Direita, Baixo, Esquerda */
+}
