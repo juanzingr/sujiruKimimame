@@ -29,3 +29,17 @@ button{
 
 	/* (padding: 4px 11px 4px 11px;) ajusta as ultimas 4 tags em 1 tag só, na ordem Cima, Direita, Baixo, Esquerda */
 }
+h1{
+	color: #00008B;
+	font-size: 50px;
+	font-family: 'Pristina';
+
+}
+ p{
+ 	<color: #C71585	;
+ 	font-size: 40px;
+ 	font-family: Niagara Solid;
+ 	font-weight: bold;
+
+
+}
