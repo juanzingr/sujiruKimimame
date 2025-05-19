@@ -38,8 +38,12 @@ h1{
  p{
  	<color: #C71585	;
  	font-size: 40px;
- 	font-family: Niagara Solid;
+ 	font-family: "Roboto Mono", monospace;
  	font-weight: bold;
+ 	text-align: justify;
+ 	padding-right: 15px;
+ 	padding-left: 15px;
+
 
 
 }
